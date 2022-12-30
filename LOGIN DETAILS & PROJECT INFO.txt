@@ -2,8 +2,6 @@
 
 **Database Name: otrsphp**
 
-**Developed by Adelabu Oluwatoyin Simbiat**
-
 **Recommended PHP Version 7**
 
 
